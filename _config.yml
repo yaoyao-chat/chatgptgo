@@ -1,0 +1,13 @@
+title: 'ChatGPT Go 2026：Go 和 Plus 差在哪、国内能不能开、值不值'
+description: 'ChatGPT Go（2026-11）：官方 8 美元档包含什么、和 Plus 逐项对比、国内能不能开、已开 Go 怎么升 Plus；店里不卖 Go，瑶瑶ai训练师商城 Plus ¥129（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/chatgptgo"
